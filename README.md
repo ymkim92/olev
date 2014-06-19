@@ -61,4 +61,4 @@ My role
 Monitoring : the status of electric bus and power supplier
 
 
-[grandpark]: (/images/grand_park.png/) "Grand Children's Park"
+[grandpark]: images/grand_park.png "Grand Children's Park"
