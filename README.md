@@ -4,8 +4,8 @@ OnLine Electric Vehicle: OLEV
 
 * Toyota Prius : Plugin Hybrid Electric Vehicle
 * Pure EV: Tesla motor in California
-![alt][models]
 ![alt][teslastock]
+![alt][models]
   * advantage
     * simple 
       * empty bonnet
