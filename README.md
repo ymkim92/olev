@@ -9,20 +9,21 @@ OnLine Electric Vehicle: OLEV
   * advantages
     * simple 
       * empty bonnet
-      * easy to fix it
+      * easy to repair it
   * disadvantages
     * recharging time is longer than filling oil
 
+### Future of EV
+* Oil is the best energy
+* but, it will be out of stock
 
 ### How to recharge
 
 options
 * plugin charge
-* battery swap
-* wireless charge
+* battery swap: better place, battery swap of Tesla Motors
+* wireless charge: olev
  
-
-Better Place in Israel
 
 ## What is OLEV?
 <!--
@@ -35,22 +36,24 @@ http://en.wikipedia.org/wiki/Online_Electric_Vehicle
 http://en.wikipedia.org/wiki/Inductive_charging#Electric_vehicles
 -->
 
-Inductive charging also known as wireless charging
+Inductive charging (wireless charging)
 * electromagnetic field
 ![alt][electromagnetic]
+  * Example: Oral-B rechargeable toothbrushes
 
+<!--
 http://en.wikipedia.org/wiki/Electromagnetic_field
 http://en.wikipedia.org/wiki/Inductive_coupling
-
-Oral-B rechargeable toothbrushes
-
 Resonant inductive coupling
  passive RFID tags and contactless smart cards.
+-->
 
 ![alt][olevcoupling]
 problems
 * power efficiency:
-  how much energy can get from primary to secondary coil (more than 80%)
+  * how much energy can get from primary to secondary coil (now avg. 80%)
+  * gap between pick up and face of road (now, 20cm)
+
   
 
 ### Applications
