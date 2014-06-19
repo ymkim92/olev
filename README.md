@@ -5,16 +5,15 @@ OnLine Electric Vehicle: OLEV
 EV
 ==
 
-HEV, PHEV
-Tesla motor in California
-
-advantages
-* simple : 
-  empty bonnet
-  easy to fix it
-
-disadvantages
-* recharging time is longer than filling oil
+* HEV
+* PHEV : Toyota Prius
+* Pure EV: Tesla motor in California
+  * advantages
+    * simple 
+      * empty bonnet
+      * easy to fix it
+  * disadvantages
+    * recharging time is longer than filling oil
 
 
 How to recharge
@@ -54,7 +53,7 @@ problems
 
 Applications
 ============
-* Grand children's park in Gwachon
+* Grand children's park in Gwachon ![alt text][grandpark]
 * Gumi city
 
 My role
@@ -62,4 +61,4 @@ My role
 Monitoring : the status of electric bus and power supplier
 
 
-
+[grandpark]: (/images/grand_park.png/) "Grand Children's Park"
