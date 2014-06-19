@@ -72,5 +72,5 @@ Monitoring : the status of electric bus and power supplier
 [electromagnetic]: images/electromagnetic_field.png 
 [olevcoupling]: images/olev_coupling.gif
 [map]: images/map.png
-[teslastock]: images/tesla_stcok.png
+[teslastock]: images/tesla_stock.png
 [models]: images/models.png
