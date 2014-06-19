@@ -6,15 +6,15 @@ OnLine Electric Vehicle: OLEV
 * Pure EV: Tesla motor in California
 ![alt][models]
 ![alt][teslastock]
-  * advantages
+  * advantage
     * simple 
       * empty bonnet
       * easy to repair it
-  * disadvantages
+  * disadvantage
     * recharging time is longer than filling oil
 
 ### Future of EV
-* Oil is the best energy
+* Oil is the best energy: easy to keeping and safe
 * but, it will be out of stock
 
 ### How to recharge
