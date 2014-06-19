@@ -60,7 +60,7 @@ problems
 * Grand children's park in Gwachon ![alt text][grandpark]
 * Gumi city 
 
-![alt text][gumi1] ![alt text][gumi2]
+  ![alt text][gumi1] ![alt text][gumi2]
 
 ### My role
 Monitoring : the status of electric bus and power supplier
