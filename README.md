@@ -38,7 +38,7 @@ http://en.wikipedia.org/wiki/Inductive_charging#Electric_vehicles
 
 Inductive charging (wireless charging)
 * electromagnetic field
-![alt][electromagnetic]
+  ![alt][electromagnetic]
   * Example: Oral-B rechargeable toothbrushes
 
 <!--
