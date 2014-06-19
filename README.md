@@ -52,7 +52,7 @@ Resonant inductive coupling
 problems
 * power efficiency:
   * how much energy can get from primary to secondary coil (now avg. 80%)
-  * gap between pick up and face of road (now, 20cm)
+  * gap between pick up and surface of road (now, 20cm)
 
   
 
