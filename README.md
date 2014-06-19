@@ -56,7 +56,7 @@ problems
 
   
 
-### Applications
+### Business
 * Grand children's park in Gwachon ![alt text][grandpark]
 * Gumi city 
 
